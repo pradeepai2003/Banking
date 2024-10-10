@@ -59,7 +59,7 @@ const AdminDashboard = () => {
           <InfoSection>
             <PeopleIcon color="primary" style={{ fontSize: '40px' }} />
             <Typography variant="h6" color="primary">
-              Total Users
+              Total User
             </Typography>
             <Typography variant="h4" color="textPrimary">
               540
